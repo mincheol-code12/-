@@ -13,8 +13,8 @@ eCommerce 플랫폼(Kaggle) 데이터를 활용해 퍼널 구간별 이탈 원�
 
 | 파일 | 설명 |
 |---|---|
-| `프로젝트3-퍼널이탈분석_v2.ipynb` | DA 파트 — View→Cart / Cart→Purchase / Purchase→Repurchase 구간별 이탈 원인 가설 검증 |
-| `프로젝트3-재구매예측모델_v4-3.ipynb` | DS 파트 — RF 기반 재구매 예측 모델 + Combined Score CRM 타겟 최적화 |
+| `[ecommerce 분석 Part 1].ipynb` | DA 파트 — View→Cart / Cart→Purchase / Purchase→Repurchase 구간별 이탈 원인 가설 검증 |
+| `[ecommerce 분석 Part 2].ipynb` | DS 파트 — RF 기반 재구매 예측 모델 + Combined Score CRM 타겟 최적화 |
 | `데이터마트_쿼리_정리.sql` | 퍼널 집계 및 분석용 데이터마트 쿼리 |
 
 ---
