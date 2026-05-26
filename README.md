@@ -24,7 +24,7 @@ eCommerce 플랫폼(Kaggle) 데이터를 활용해 퍼널 구간별 이탈 원�
 ```
 DA: 퍼널 이탈 분석
 ├── View → Cart     : apparel 카테고리 전환율 6.0% (전체 평균 13.3%)
-├── Cart → Purchase : 세션 이탈 유저 18.3%가 나중에 동일 상품 구매 (지연 전환)
+├── Cart → Purchase : 세션 이탈 유저 14.3%가 나중에 동일 상품 구매 (지연 전환)
 └── Purchase → Repurchase : cart 재추가 행동이 재구매의 가장 강력한 선행 지표 (V=0.505)
         ↓
 DS: 규칙기반 CRM의 한계 → ML 타겟 최적화
