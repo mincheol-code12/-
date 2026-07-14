@@ -29,7 +29,7 @@ DA: 퍼널 이탈 분석
         ↓
 DS: 규칙기반 CRM의 한계 → ML 타겟 최적화
 └── Combined Score(재구매 확률 × 구매 가치) 기반 Top 50% 타겟팅
-    → 발송 수 22.5% 감소, Value Recall 83.7% 유지
+     → 발송 수 22.5% 감소, Value Recall 81.8% 유지
 ```
 
 ---
